@@ -20,7 +20,6 @@ const Header = () => {
     const handleMobile = () => {
         console.log("Handle Mobile");
         setIsMobile((prev) => !prev)
-
     }
 
     const openSearchDialog = () => {
@@ -57,8 +56,6 @@ const Header = () => {
             </Tooltip>
         )
     }
-
-
     return (
         <>
             <Box sx={{ flexGrow: 1 }} height={"4rem"}>
