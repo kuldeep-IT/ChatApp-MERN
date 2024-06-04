@@ -1,4 +1,6 @@
 export const orange = '#ea7070'
 export const black = '#000000'
 export const white = '#ffffff'
-export const gray = '#808080'
+export const grayColor = 'rgba(247,247,247,1)'
+export const blueColor = '#2694ab'
+export const matBlack = '#1c1c1c'
